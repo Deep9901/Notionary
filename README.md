@@ -1,4 +1,4 @@
-# Blog Platform with Microservices
+# Notionary
 
 ![Architecture](https://img.shields.io/badge/Architecture-Microservices-blue.svg) ![Language](https://img.shields.io/badge/Language-Node.js-green.svg) ![Frontend](https://img.shields.io/badge/Frontend-Next.js-black.svg) ![Deployment](https://img.shields.io/badge/Deploy-AWS%20%7C%20Vercel-orange.svg)
 
